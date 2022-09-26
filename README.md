@@ -1,6 +1,6 @@
 # form
 
-###Create simple Login and Sign up pages.
+Create simple Login and Sign up pages.
 
 uses for this php and bootstrap
 
