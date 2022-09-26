@@ -1,10 +1,10 @@
 # form
 
-##Create simple Login and Sign up pages.
+###Create simple Login and Sign up pages.
 
-##uses for this php and bootstrap
+uses for this php and bootstrap
 
-##It contains :
+It contains :
 
 1. Landing Page 
 Your landing page will contain a welcoming message and two links one for the login page and the other one for the sign-up page 
